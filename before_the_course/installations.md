@@ -40,6 +40,7 @@ You can also try to install 'stylo' another way, e.g. from Github or from a loca
 ### 3. Gephi
 Please go to: https://gephi.org/ and download Gephi.  
 After installing it, run and check that the program opens.
+If you encounter problems, see the note here: https://hackmd.io/@ovlvgnd1SEGJyZZqbpnbGQ/BJMw1x4id.
 
 ## Corpora to download
 Please download [a small corpus for first experiments](https://github.com/computationalstylistics/A_Small_Collection_of_British_Fiction) for the first class.
