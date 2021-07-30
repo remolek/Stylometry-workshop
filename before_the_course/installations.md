@@ -7,6 +7,10 @@ Go to https://cran.r-project.org/ and select version appropriate for your system
 Note that if you use MacOS you need to also install XQuartz (https://www.xquartz.org/) and restart your computer afterwards.  
 If you installed XQuartz but still can't install package in the next step, look here: https://github.com/computationalstylistics/stylo#1-installing-from-cran or write me an e-mail with an error you're getting.
 
+### 1a. Integrated Development Environment (optional)
+If you are not used to having just an R console, you might find it useful to have an IDE like RStudio (https://www.rstudio.com/products/rstudio/download/),
+which "includes a console, syntax-highlighting editor that supports direct code execution, and a variety of robust tools for plotting, viewing history, debugging and managing your workspace".
+
 ### 2. Stylo package
 Launch R, make sure you are connected to the internet, and type:
 ```
